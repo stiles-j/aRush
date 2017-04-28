@@ -1,6 +1,0 @@
-To run this application, unzip this archive, and place PcTc.py and aRushRC1.py in the same directory.
-From there, you can run PcTc.py from the command line by typing:
-
-python pctc.py
-
-Player files will be saved in the same directory the application is saved in, and should not be moved.
